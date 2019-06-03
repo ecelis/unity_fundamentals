@@ -21,9 +21,14 @@ ModelImporter:
     4300000: Object002
     4300002: Object003
     4300004: Object004
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_20
+    second: {fileID: 2100000, guid: 47f3465b5d18f324f904509e7552d2f2, type: 2}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1

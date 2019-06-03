@@ -16,9 +16,14 @@ ModelImporter:
     3300002: Object003
     4300000: Object003
     4300002: Group30904
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat
+    second: {fileID: 2100000, guid: a9dbfb3d79a97a04ab57b20290730304, type: 2}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1

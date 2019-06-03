@@ -9,9 +9,14 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: WallTop01
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrimSheet
+    second: {fileID: 2100000, guid: 4cda0f4d60310ec4c98a2f5e71f2c8c4, type: 2}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1

@@ -46,9 +46,14 @@ ModelImporter:
     4300010: Object009
     4300012: Object010
     4300014: Object011
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_20
+    second: {fileID: 2100000, guid: 93cb81e6ab4b3c649906225a408cbe47, type: 2}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
